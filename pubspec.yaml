@@ -1,7 +1,10 @@
 name: flutter_gradient_picker
-description: "A new Flutter project."
-version: 0.0.1
-homepage:
+description: A Flutter widget for picking gradients.
+version: 1.0.0
+homepage: https://github.com/thisisjatinrana/flutter_gradient_picker
+repository: https://github.com/thisisjatinrana/flutter_gradient_picker
+issue_tracker: https://github.com/thisisjatinrana/flutter_gradient_picker/issues
+
 
 environment:
   sdk: ^3.5.2
