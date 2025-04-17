@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/hacky/Documents/Flutter/sdk/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hacky/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/hacky/Documents/Personal/flutter_gradient_picker/flutter_gradient_picker/example/android/app/.cxx/Debug/2a5q1ec3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hacky/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/hacky/Documents/Personal/flutter_gradient_picker/flutter_gradient_picker/example/android/app/.cxx/Debug/2a5q1ec3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
