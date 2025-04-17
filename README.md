@@ -3,10 +3,16 @@
 A beautiful, interactive, and customizable gradient picker widget for Flutter. Allows users to select start and end colors and adjust the gradient angle visually and easily.
 
 ![Pub Version](https://img.shields.io/pub/v/flutter_gradient_picker.svg)
-![Platform](https://img.shields.io/badge/platform-flutter-blue.svg)
+![Platform](https://img.shields.io/pub/platform/flutter_gradient_picker)
 ![License](https://img.shields.io/github/license/yourusername/flutter_gradient_picker)
 
----
+![Android](https://img.shields.io/badge/platform-Android-green.svg)
+![iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
+![Web](https://img.shields.io/badge/platform-Web-purple.svg)
+![macOS](https://img.shields.io/badge/platform-macOS-grey.svg)
+![Windows](https://img.shields.io/badge/platform-Windows-lightblue.svg)
+![Linux](https://img.shields.io/badge/platform-Linux-yellow.svg)
+
 
 ## ✨ Features
 
